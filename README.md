@@ -29,5 +29,9 @@ Each folder contains:
 - Assets (images/fonts if required)  
 - User Interface Designs
 
-Example structure:
+---
 
+## 🙋‍♂️ Author
+
+*Kavindu Prabodya Senanayake*  
+[GitHub](https://github.com/kavindu-specs) • [LinkedIn](https://www.linkedin.com/in/kavindu-prabodya-b25125139) • [Email](mailto:kavinduprabodya@gmail.com)
